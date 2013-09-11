@@ -1,5 +1,7 @@
 Kalyzee Jobs Framework
 
+[![Build Status](https://travis-ci.org/Kalyzee/jobs-framework.png?branch=master)](https://travis-ci.org/Kalyzee/jobs-framework)
+
 Create an application using Kalyzee jobs-framework
 
 ```
